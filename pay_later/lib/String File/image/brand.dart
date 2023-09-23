@@ -1,0 +1,12 @@
+const String brandLogo1 = "assets/brand_logo1.png";
+const String brandLogo2 = "assets/brand_logo_2.png";
+const String brandLogo3 = "assets/brand_logo_3.png";
+const String brandLogo4 = "assets/brand_logo_4.png";
+const String brandLogo5 = "assets/brand_logo_5.png";
+const String brandLogo6 = "assets/brand_logo_6.png";
+const String brandLogo7 = "assets/brand_logo_7.png";
+const String brandLogo8 = "assets/brand_logo_8.png";
+const String brandLogo9 = "assets/brand_logo_9.png";
+const String brandLogo10 = "assets/brand_logo_10.png";
+const String brandLogo11 = "assets/brand_logo_11.png";
+const String brandLogo12 = "assets/brand_logo_12.png";
